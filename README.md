@@ -40,7 +40,10 @@ This project was developed by the following team members:
 - Oluwaponmile Fapohunda Elizabeth(UI/UX Designer)
 - Olumide Adewole(UI/UX Designer)
 
-
+Additional Information:
+The app also provides articles related to Cancer, Diabetes, and Respiratory illnesses for users to read up on.
+Users can save results of previous scanned items for future reference.
+The app prompts users to visit a doctor at pre-scheduled time frames for regular check-ups.
 
 ## License
 
