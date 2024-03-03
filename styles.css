@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .logo {
+    border: 2px solid #ccc;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+  }
+  
+  .logo img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  h1 {
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: top;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .scanner, .results {
+    margin-bottom: 20px;
+  }
+  
+  .scanner h2, .results h2 {
+    margin-top: 0;
+  }
+  
+  input[type="text"], button {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .safety-level {
+    color: green;
+  }
+  
+  .sugar-content {
+    color: blue;
+  }
+  
+  .nutritional-value {
+    color: orange;
+  }
+  
